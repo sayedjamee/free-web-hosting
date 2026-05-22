@@ -60,7 +60,28 @@
   * [Cloudflare Pages](https://pages.cloudflare.com/) — Free static/Jamstack hosting.
 
 
+## Also Free Hosting Providers
 
+- [Kualo Free Charity Hosting](https://www.kualo.co.uk/free-charity-hosting)
+- [cPanelFree](https://cpanelfree.com/)
+- [SamitPark Free Website Hosting](https://samitpark.com/free-website-hosting/)
+- [Netsons Free Hosting](https://www.netsons.com/en/hosting/hosting-gratis?srsltid=AfmBOoqroyIIr3-uMOwtsVnzzvm_ssC59pT8ke-G14i1R2v4NCS2gapC)
+- [Free-Hosting.org](https://free-hosting.org/)
+- [Atak Domain Free Hosting](https://www.atakdomain.com/en/free-hosting)
+- [100WebSpace Free Plan](https://www.100webspace.com/web-hosting/free-plan/)
+- [Beget Free Hosting](https://beget.com/en/hosting/free)
+- [MonsterASP.NET](https://www.monsterasp.net/)
+- [AtSpace Free Hosting](https://www.atspace.com/web-hosting/free-hosting/)
+- [FreeHostingEU](https://www.freehostingeu.com/)
+- [HostyCare Free Hosting](https://www.hostycare.com/free-hosting)
+- [CloudPanel](https://cdn.cloudpanel.io)
+- [FreeHosting.host](https://freehosting.host/products/free-hosting/)
+- [CyberPanel](https://cyberpanel.net/)
+- [Free2Host](https://free2host.eu.org/)
+- [FreeHostingNoAds](https://freehostingnoads.net/)
+- [TinkerHost](https://tinkerhost.net/)
+- [Gnomio](https://www.gnomio.com/)
+- [Afrihost Shared Hosting](https://www.afrihost.com/shared-hosting)
 
 ## Changes Made
 
