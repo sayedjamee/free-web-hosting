@@ -1,9 +1,37 @@
+
+---
+layout: default
+title: Free Web Hosting Providers
+description: A curated list of free web hosting providers, free website hosting, static hosting, dynamic hosting, PHP hosting, cloud hosting, serverless platforms, free hosting trials, and free-tier services.
+---
+
+# Free Web Hosting Providers
+
+A curated directory of **free web hosting providers, free website hosting services, static website hosting, dynamic web hosting, cloud hosting, serverless platforms, free hosting trials, and free-tier cloud services**.
+
+🌐 **[View this project on GitHub](https://github.com/sayedjamee/free-web-hosting)**
+
+This directory includes hosting services for static websites, dynamic applications, PHP and database-based websites, developer projects, full-stack applications, website builders, documentation, and major cloud platforms offering free tiers or trial credits.
+
+## Contents
+
+- [Static Website Hosting](#static-website-hosting)
+- [Static Hosting + Dynamic / Serverless Capabilities](#static-hosting--dynamic--serverless-capabilities)
+- [Dynamic / Traditional Web Hosting](#dynamic--traditional-web-hosting)
+- [Big Tech / Major Cloud Free Tiers and Credits](#big-tech--major-cloud-free-tiers-and-credits)
+- [Website Builders / CMS / Specialized Hosting](#website-builders--cms--specialized-hosting)
+- [Developer / Cloud Infrastructure Platforms](#developer--cloud-infrastructure-platforms)
+- [Other Free Hosting Providers](#other-free-hosting-providers)
+
+
+
+
+
+
+
 # Free Web Hosting / Web Hosting Trial Offers / Free Trial Credits
 
 This list is organized by **what you can actually run**, rather than only by provider name. Some platforms fit more than one technical category; each provider is placed in the section that best represents its primary hosting model in this list.
-
-
-**🌐 [View this page on GitHub Pages](https://sayedjamee.github.io/free-web-hosting/)**
 
 ## 1. Static Pages / Static Website Hosting
 
@@ -156,3 +184,27 @@ These entries are retained from the original README where the supplied data did 
 [4] [Vercel Functions documentation](https://vercel.com/docs/functions) — Vercel Functions provide server-side execution without managing servers.
 
 [5] [Netlify platform documentation](https://docs.netlify.com/start/core-concepts/primitives/) — Netlify Functions can add dynamic behavior to static pages.
+
+
+
+## Notes
+
+### Static hosting
+
+Static hosting is suitable for prebuilt files such as HTML, CSS, JavaScript, images, fonts, documentation, and generated websites.
+
+### Dynamic hosting
+
+Dynamic hosting supports server-side application execution or server-side services such as PHP, ASP.NET, Node.js, Python, databases, APIs, or CMS applications.
+
+### Static + dynamic / serverless
+
+Hybrid platforms can serve a static frontend while providing server-side functions or APIs when dynamic behavior is required.
+
+### Big Tech free tiers
+
+Major cloud providers often provide free credits, always-free resources, or limited quotas rather than conventional unlimited free shared hosting. Always check the provider's current terms and usage limits before deploying anything important.
+
+### Information accuracy
+
+Free-plan limits, pricing, quotas, eligibility requirements, supported technologies, and product availability can change. Always verify the provider's current offer before relying on a specific feature or quota.

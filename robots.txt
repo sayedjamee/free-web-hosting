@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sayedjamee.github.io/free-web-hosting/sitemap.xml

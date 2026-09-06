@@ -1,0 +1,15 @@
+title: Free Web Hosting Providers
+
+description: >-
+  A curated directory of free web hosting providers, free website hosting,
+  static hosting, dynamic hosting, cloud hosting, serverless platforms,
+  free hosting trials, and free-tier services.
+
+url: "https://sayedjamee.github.io"
+baseurl: "/free-web-hosting"
+
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
